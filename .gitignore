@@ -221,3 +221,6 @@ __marimo__/
 
 data/raw/*.pdf
 data/processed/*.jsonl
+
+data/raw/*.pdf
+data/processed/*.jsonl
