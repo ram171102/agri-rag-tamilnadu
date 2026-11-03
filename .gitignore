@@ -224,3 +224,5 @@ data/processed/*.jsonl
 
 data/raw/*.pdf
 data/processed/*.jsonl
+
+data/processed/*.npy
