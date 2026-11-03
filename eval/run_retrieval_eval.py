@@ -16,12 +16,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from src.retrieve import NaiveRetriever  # noqa: E402
+from src.retrieve import HybridRetriever, NaiveRetriever  # noqa: E402  # noqa: E402
 
 GOLDEN = ROOT / "eval" / "golden_set.jsonl"
 CHUNKS = ROOT / "data" / "processed" / "chunks.jsonl"
 RESULTS = ROOT / "eval" / "results"
-METHODS = {"naive": NaiveRetriever}
+METHODS = {"naive": NaiveRetriever, "hybrid": HybridRetriever}
 
 
 def load_pages():
