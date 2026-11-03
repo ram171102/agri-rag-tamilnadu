@@ -400,5 +400,165 @@
         41
       ]
     ]
+  },
+  {
+    "id": "q011",
+    "question": "How is pink bollworm controlled in cotton?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.7723690867424011,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        283
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        291
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        282
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        284
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        272
+      ]
+    ],
+    "hit": false,
+    "recall": 0.0,
+    "rr": 0.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        285
+      ]
+    ]
+  },
+  {
+    "id": "q012",
+    "question": "What is the economic threshold level for whiteflies in cotton?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.701941728591919,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        283
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        286
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        88
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        175
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        152
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        283
+      ]
+    ]
+  },
+  {
+    "id": "q013",
+    "question": "Which seed treatment protects cotton against sucking pests in the early stage?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.7518295049667358,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        282
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        120
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        292
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        293
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        272
+      ]
+    ],
+    "hit": true,
+    "recall": 0.3333333333333333,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        282
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        287
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        288
+      ]
+    ]
+  },
+  {
+    "id": "q014",
+    "question": "What is the NPV dose recommended for biological control of Helicoverpa in cotton?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.7254371047019958,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        284
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        89
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        232
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        180
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        286
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        284
+      ]
+    ]
   }
 ]
