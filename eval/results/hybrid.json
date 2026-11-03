@@ -75,8 +75,12 @@
     ],
     "hit": true,
     "recall": 1.0,
-    "rr": 0.3333333333333333,
+    "rr": 1.0,
     "expected": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        45
+      ],
       [
         "tn_agri_citizen_charter_2022_23.pdf",
         41
