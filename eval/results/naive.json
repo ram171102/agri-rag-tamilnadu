@@ -1,0 +1,400 @@
+[
+  {
+    "id": "q001",
+    "question": "How can blast disease in paddy be controlled?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.706043004989624,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        70
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        72
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        36
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        257
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        44
+      ]
+    ],
+    "hit": true,
+    "recall": 0.6666666666666666,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        70
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        71
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        72
+      ]
+    ]
+  },
+  {
+    "id": "q002",
+    "question": "What is the premium rate under PMFBY?",
+    "type": "scheme",
+    "lang": "en",
+    "top_score": 0.7325854897499084,
+    "retrieved": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        45
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        41
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        80
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        78
+      ],
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        233
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 0.5,
+    "expected": [
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        41
+      ]
+    ]
+  },
+  {
+    "id": "q003",
+    "question": "What is the price of bitcoin?",
+    "type": "unanswerable",
+    "lang": "en",
+    "top_score": 0.5809335708618164,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        357
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        358
+      ],
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        91
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        105
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        168
+      ]
+    ]
+  },
+  {
+    "id": "q004",
+    "question": "Which fungicide is recommended for sheath blight in rice?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.7059628963470459,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        71
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        72
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        291
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        126
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        70
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        71
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        72
+      ]
+    ]
+  },
+  {
+    "id": "q008",
+    "question": "Nel la blast noi eppadi control pannalam?",
+    "type": "factual",
+    "lang": "tanglish",
+    "top_score": 0.5917280316352844,
+    "retrieved": [
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        58
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        237
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        278
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        132
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        16
+      ]
+    ],
+    "hit": false,
+    "recall": 0.0,
+    "rr": 0.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        70
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        71
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        72
+      ]
+    ]
+  },
+  {
+    "id": "q009",
+    "question": "What is the ragi subsidy in Karnataka?",
+    "type": "unanswerable",
+    "lang": "en",
+    "top_score": 0.6663048267364502,
+    "retrieved": [
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        84
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        19
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        89
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        165
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        50
+      ]
+    ]
+  },
+  {
+    "id": "q005",
+    "question": "What is the seed rate for rice in a wet nursery for transplanting, by duration of variety?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.8185395002365112,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        40
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        29
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        43
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        31
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        49
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 0.5,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        29
+      ]
+    ]
+  },
+  {
+    "id": "q006",
+    "question": "How is brown planthopper controlled in rice?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.7191039323806763,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        44
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        72
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        64
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        157
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        36
+      ]
+    ],
+    "hit": false,
+    "recall": 0.0,
+    "rr": 0.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        66
+      ]
+    ]
+  },
+  {
+    "id": "q007",
+    "question": "What subsidy do small and marginal farmers get for drip and sprinkler irrigation?",
+    "type": "scheme",
+    "lang": "en",
+    "top_score": 0.7679706811904907,
+    "retrieved": [
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        87
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        91
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        154
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        411
+      ],
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        135
+      ]
+    ],
+    "hit": true,
+    "recall": 0.5,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        91
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        99
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        87
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        90
+      ]
+    ]
+  },
+  {
+    "id": "q010",
+    "question": "Who is eligible for crop insurance under PMFBY?",
+    "type": "scheme",
+    "lang": "en",
+    "top_score": 0.7927720546722412,
+    "retrieved": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        45
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        41
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        78
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        80
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        52
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        45
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        41
+      ]
+    ]
+  }
+]
