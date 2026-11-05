@@ -12,3 +12,39 @@
 {"id": "q012", "question": "What is the economic threshold level for whiteflies in cotton?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 283}]}
 {"id": "q013", "question": "Which seed treatment protects cotton against sucking pests in the early stage?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 282}, {"doc": "tnau_cpg_agriculture_2020.pdf", "page": 287}, {"doc": "tnau_cpg_agriculture_2020.pdf", "page": 288}], "borderline": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 290, "why": "IPDM list mentions imidacloprid seed treatment but does not state protection against sucking pests"}]}
 {"id": "q014", "question": "What is the NPV dose recommended for biological control of Helicoverpa in cotton?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 284}]}
+{"id": "q015", "question": "What is the recommended seed rate for groundnut?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 197}, {"doc": "tnau_cpg_agriculture_2020.pdf", "page": 202}]}
+{"id": "q016", "question": "How is yellow mosaic virus controlled in blackgram?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q017", "question": "What spacing is recommended for maize hybrids?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q018", "question": "How is red rot of sugarcane managed?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q019", "question": "How is early shoot borer controlled in sugarcane?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q020", "question": "What is the optimum age of seedlings for transplanting short duration rice varieties?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q021", "question": "How is fall armyworm controlled in maize?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q022", "question": "Which sorghum varieties are recommended for the rabi season?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q023", "question": "How is thrips controlled in onion?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q024", "question": "What is the recommended fertilizer dose for banana?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q025", "question": "How is wilt disease controlled in tomato?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q026", "question": "How is rhinoceros beetle controlled in coconut?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q027", "question": "What is the recommended seed rate for ragi?", "type": "factual", "lang": "en", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q028", "question": "Maize la fall armyworm eppadi control pannalam?", "type": "factual", "lang": "tanglish", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q029", "question": "Karumbu la red rot noi eppadi thadukkalam?", "type": "factual", "lang": "tanglish", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q030", "question": "Vaazhai ku evvalavu uram podanum?", "type": "factual", "lang": "tanglish", "relevant": [{"doc": "tnau_cpg_agriculture_2020.pdf", "page": 0}]}
+{"id": "q031", "question": "What subsidy is available for purchasing a power tiller?", "type": "scheme", "lang": "en", "relevant": [{"doc": "tn_agri_citizen_charter_2022_23.pdf", "page": 0}]}
+{"id": "q032", "question": "What subsidy is given for installing solar pumpsets?", "type": "scheme", "lang": "en", "relevant": [{"doc": "tn_agri_citizen_charter_2022_23.pdf", "page": 0}]}
+{"id": "q033", "question": "What assistance is available for setting up a vermicompost unit?", "type": "scheme", "lang": "en", "relevant": [{"doc": "tn_agri_citizen_charter_2022_23.pdf", "page": 0}]}
+{"id": "q034", "question": "What is the subsidy for distribution of certified paddy seeds?", "type": "scheme", "lang": "en", "relevant": [{"doc": "tn_agri_citizen_charter_2022_23.pdf", "page": 0}]}
+{"id": "q035", "question": "What assistance is available for setting up a farm pond?", "type": "scheme", "lang": "en", "relevant": [{"doc": "tn_agri_citizen_charter_2022_23.pdf", "page": 0}]}
+{"id": "q036", "question": "What subsidy is given for area expansion of banana cultivation?", "type": "scheme", "lang": "en", "relevant": [{"doc": "tn_agri_citizen_charter_2022_23.pdf", "page": 0}]}
+{"id": "q037", "question": "What assistance is given to farmers for organic farming?", "type": "scheme", "lang": "en", "relevant": [{"doc": "tn_agri_citizen_charter_2022_23.pdf", "page": 0}]}
+{"id": "q038", "question": "Who should farmers contact to avail the micro irrigation subsidy?", "type": "scheme", "lang": "en", "relevant": [{"doc": "tn_agri_citizen_charter_2022_23.pdf", "page": 0}]}
+{"id": "q039", "question": "Drip irrigation ku chinna vivasayigalukku evvalavu subsidy kidaikkum?", "type": "scheme", "lang": "tanglish", "relevant": [{"doc": "tn_agri_citizen_charter_2022_23.pdf", "page": 87}, {"doc": "tn_agri_citizen_charter_2022_23.pdf", "page": 90}]}
+{"id": "q040", "question": "Payir kaappeedu ku yaar vinnappikkalam?", "type": "scheme", "lang": "tanglish", "relevant": [{"doc": "tn_agri_citizen_charter_2022_23.pdf", "page": 41}]}
+{"id": "q041", "question": "What documents are needed to enrol in crop insurance?", "type": "scheme", "lang": "en", "relevant": [{"doc": "tn_agri_citizen_charter_2022_23.pdf", "page": 0}]}
+{"id": "q042", "question": "What is the subsidy for tractor-drawn farm implements for small farmers?", "type": "scheme", "lang": "en", "relevant": [{"doc": "tn_agri_citizen_charter_2022_23.pdf", "page": 0}]}
+{"id": "q043", "question": "How did the number of farmers enrolled under PMFBY change between the 2022-23 and 2024-25 policy notes?", "type": "cross_year", "lang": "en", "relevant": [{"doc": "tn_agri_policy_note_2022_23.pdf", "page": 52}, {"doc": "tn_agri_policy_note_2024_25.pdf", "page": 0}]}
+{"id": "q044", "question": "How did the sale of sugar and by-products change between 2022-23 and 2023-24?", "type": "cross_year", "lang": "en", "relevant": [{"doc": "tn_agri_policy_note_2023_24.pdf", "page": 91}, {"doc": "tn_agri_policy_note_2024_25.pdf", "page": 105}]}
+{"id": "q045", "question": "How did the micro irrigation target or allocation change between the 2022-23 and 2024-25 policy notes?", "type": "cross_year", "lang": "en", "relevant": [{"doc": "tn_agri_policy_note_2022_23.pdf", "page": 0}, {"doc": "tn_agri_policy_note_2024_25.pdf", "page": 0}]}
+{"id": "q046", "question": "How did the foodgrain production figures differ between the 2022-23 and 2024-25 policy notes?", "type": "cross_year", "lang": "en", "relevant": [{"doc": "tn_agri_policy_note_2022_23.pdf", "page": 0}, {"doc": "tn_agri_policy_note_2024_25.pdf", "page": 0}]}
+{"id": "q047", "question": "What is the paddy procurement price in Kerala?", "type": "unanswerable", "lang": "en", "relevant": []}
+{"id": "q048", "question": "How much is the Rythu Bandhu assistance in Telangana?", "type": "unanswerable", "lang": "en", "relevant": []}
+{"id": "q049", "question": "What medicine should I take for a fever?", "type": "unanswerable", "lang": "en", "relevant": []}
+{"id": "q050", "question": "Who won the last cricket world cup?", "type": "unanswerable", "lang": "en", "relevant": []}
