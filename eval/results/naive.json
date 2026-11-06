@@ -1189,10 +1189,14 @@
         448
       ]
     ],
-    "hit": false,
-    "recall": 0.0,
-    "rr": 0.0,
+    "hit": true,
+    "recall": 0.2,
+    "rr": 1.0,
     "expected": [
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        52
+      ],
       [
         "tn_agri_citizen_charter_2021_22.pdf",
         87
@@ -1204,6 +1208,10 @@
       [
         "tn_agri_citizen_charter_2022_23.pdf",
         81
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        104
       ]
     ]
   },
@@ -1235,13 +1243,17 @@
         117
       ]
     ],
-    "hit": false,
-    "recall": 0.0,
-    "rr": 0.0,
+    "hit": true,
+    "recall": 0.5,
+    "rr": 1.0,
     "expected": [
       [
         "tn_agri_citizen_charter_2022_23.pdf",
         98
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        112
       ]
     ]
   },
@@ -1278,6 +1290,10 @@
     "rr": 0.0,
     "expected": [
       [
+        "tn_agri_budget_speech_2024_25.pdf",
+        15
+      ],
+      [
         "tn_agri_citizen_charter_2021_22.pdf",
         65
       ],
@@ -1288,6 +1304,10 @@
       [
         "tn_agri_citizen_charter_2022_23.pdf",
         78
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        26
       ]
     ]
   },
@@ -1366,7 +1386,7 @@
       ]
     ],
     "hit": true,
-    "recall": 0.3333333333333333,
+    "recall": 0.2,
     "rr": 1.0,
     "expected": [
       [
@@ -1380,6 +1400,14 @@
       [
         "tn_agri_citizen_charter_2022_23.pdf",
         105
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        114
+      ],
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        145
       ]
     ]
   },
@@ -1461,9 +1489,9 @@
         44
       ]
     ],
-    "hit": false,
-    "recall": 0.0,
-    "rr": 0.0,
+    "hit": true,
+    "recall": 0.25,
+    "rr": 0.3333333333333333,
     "expected": [
       [
         "tn_agri_citizen_charter_2021_22.pdf",
@@ -1488,6 +1516,14 @@
       [
         "tn_agri_citizen_charter_2022_23.pdf",
         78
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        29
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        129
       ]
     ]
   },
@@ -1608,6 +1644,10 @@
     "rr": 0.0,
     "expected": [
       [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        45
+      ],
+      [
         "tn_agri_citizen_charter_2022_23.pdf",
         41
       ]
@@ -1670,9 +1710,9 @@
         151
       ]
     ],
-    "hit": false,
-    "recall": 0.0,
-    "rr": 0.0,
+    "hit": true,
+    "recall": 0.3333333333333333,
+    "rr": 0.3333333333333333,
     "expected": [
       [
         "tn_agri_citizen_charter_2021_22.pdf",
@@ -1681,6 +1721,10 @@
       [
         "tn_agri_citizen_charter_2022_23.pdf",
         93
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        104
       ]
     ]
   },
