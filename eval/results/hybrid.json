@@ -560,5 +560,1399 @@
         284
       ]
     ]
+  },
+  {
+    "id": "q015",
+    "question": "What is the recommended seed rate for groundnut?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.7357891798019409,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        197
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        201
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        202
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        432
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        196
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        197
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        202
+      ]
+    ]
+  },
+  {
+    "id": "q016",
+    "question": "How is yellow mosaic virus controlled in blackgram?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.7247706651687622,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        147
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        191
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        136
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        205
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        162
+      ]
+    ],
+    "hit": false,
+    "recall": 0.0,
+    "rr": 0.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        153
+      ]
+    ]
+  },
+  {
+    "id": "q017",
+    "question": "What spacing is recommended for maize hybrids?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.7305423021316528,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        119
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        128
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        269
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        124
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        219
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        119
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        124
+      ]
+    ]
+  },
+  {
+    "id": "q018",
+    "question": "How is red rot of sugarcane managed?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.7222166061401367,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        318
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        313
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        257
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        312
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        304
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        312
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        318
+      ]
+    ]
+  },
+  {
+    "id": "q019",
+    "question": "How is early shoot borer controlled in sugarcane?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.7953562140464783,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        315
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        304
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        310
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        313
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        89
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        310
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        315
+      ]
+    ]
+  },
+  {
+    "id": "q020",
+    "question": "What is the optimum age of seedlings for transplanting short duration rice varieties?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.8015969395637512,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        32
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        31
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        39
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        40
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        29
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 0.5,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        31
+      ]
+    ]
+  },
+  {
+    "id": "q021",
+    "question": "How is fall armyworm controlled in maize?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.7320574522018433,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        125
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        116
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        121
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        10
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        23
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        125
+      ]
+    ]
+  },
+  {
+    "id": "q022",
+    "question": "Which sorghum varieties are recommended for the Puratasi (September-October) season?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.7166788578033447,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        77
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        436
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        432
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        137
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        146
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        77
+      ]
+    ]
+  },
+  {
+    "id": "q023",
+    "question": "How is thrips controlled in onion?",
+    "type": "unanswerable",
+    "lang": "en",
+    "top_score": 0.6304740905761719,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        62
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        232
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        64
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        206
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        153
+      ]
+    ]
+  },
+  {
+    "id": "q024",
+    "question": "What is the recommended fertilizer dose for banana?",
+    "type": "unanswerable",
+    "lang": "en",
+    "top_score": 0.7553364038467407,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        196
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        112
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        107
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        321
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        123
+      ]
+    ]
+  },
+  {
+    "id": "q025",
+    "question": "How is wilt disease controlled in tomato?",
+    "type": "unanswerable",
+    "lang": "en",
+    "top_score": 0.6599763631820679,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        143
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        224
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        176
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        101
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        70
+      ]
+    ]
+  },
+  {
+    "id": "q026",
+    "question": "How is rhinoceros beetle controlled in coconut?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.823837161064148,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        242
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        257
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        243
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        256
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        12
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        242
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        243
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        257
+      ]
+    ]
+  },
+  {
+    "id": "q027",
+    "question": "What is the recommended seed rate for ragi?",
+    "type": "factual",
+    "lang": "en",
+    "top_score": 0.7563924789428711,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        110
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        6
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        107
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        111
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        4
+      ]
+    ],
+    "hit": false,
+    "recall": 0.0,
+    "rr": 0.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        106
+      ]
+    ]
+  },
+  {
+    "id": "q028",
+    "question": "Maize la fall armyworm eppadi control pannalam?",
+    "type": "factual",
+    "lang": "tanglish",
+    "top_score": 0.6928315758705139,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        125
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        23
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        10
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        56
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        116
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        125
+      ]
+    ]
+  },
+  {
+    "id": "q029",
+    "question": "Karumbu la red rot noi eppadi thadukkalam?",
+    "type": "factual",
+    "lang": "tanglish",
+    "top_score": 0.5711454153060913,
+    "retrieved": [
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        137
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        63
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        312
+      ],
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        42
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        318
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 0.3333333333333333,
+    "expected": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        312
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        318
+      ]
+    ]
+  },
+  {
+    "id": "q030",
+    "question": "Vaazhai ku evvalavu uram podanum?",
+    "type": "unanswerable",
+    "lang": "tanglish",
+    "top_score": 0.5569747686386108,
+    "retrieved": [
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        136
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        184
+      ],
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        76
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        188
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        113
+      ]
+    ]
+  },
+  {
+    "id": "q031",
+    "question": "What subsidy is available for purchasing a power tiller?",
+    "type": "scheme",
+    "lang": "en",
+    "top_score": 0.7029855251312256,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        448
+      ],
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        52
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        104
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        151
+      ],
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        135
+      ]
+    ],
+    "hit": false,
+    "recall": 0.0,
+    "rr": 0.0,
+    "expected": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        87
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        88
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        81
+      ]
+    ]
+  },
+  {
+    "id": "q032",
+    "question": "What subsidy is given for installing solar pumpsets?",
+    "type": "scheme",
+    "lang": "en",
+    "top_score": 0.7836987376213074,
+    "retrieved": [
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        112
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        164
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        111
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        98
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        132
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 0.25,
+    "expected": [
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        98
+      ]
+    ]
+  },
+  {
+    "id": "q033",
+    "question": "What assistance is available for setting up a vermicompost unit?",
+    "type": "scheme",
+    "lang": "en",
+    "top_score": 0.6928197145462036,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        370
+      ],
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        15
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        368
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        367
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        366
+      ]
+    ],
+    "hit": false,
+    "recall": 0.0,
+    "rr": 0.0,
+    "expected": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        65
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        86
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        78
+      ]
+    ]
+  },
+  {
+    "id": "q034",
+    "question": "What is the subsidy for distribution of certified paddy seeds?",
+    "type": "scheme",
+    "lang": "en",
+    "top_score": 0.7697068452835083,
+    "retrieved": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        18
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        38
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        11
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        27
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        36
+      ]
+    ],
+    "hit": true,
+    "recall": 0.6666666666666666,
+    "rr": 0.5,
+    "expected": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        11
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        20
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        38
+      ]
+    ]
+  },
+  {
+    "id": "q035",
+    "question": "What assistance is available for setting up a farm pond?",
+    "type": "scheme",
+    "lang": "en",
+    "top_score": 0.673951268196106,
+    "retrieved": [
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        105
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        110
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        401
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        170
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        399
+      ]
+    ],
+    "hit": true,
+    "recall": 0.3333333333333333,
+    "rr": 0.5,
+    "expected": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        110
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        100
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        105
+      ]
+    ]
+  },
+  {
+    "id": "q036",
+    "question": "What subsidy is given for planting tissue culture banana?",
+    "type": "scheme",
+    "lang": "en",
+    "top_score": 0.7519785761833191,
+    "retrieved": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        98
+      ],
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        76
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        76
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        89
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        62
+      ]
+    ],
+    "hit": true,
+    "recall": 0.75,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        76
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        98
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        69
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        89
+      ]
+    ]
+  },
+  {
+    "id": "q037",
+    "question": "What assistance is given to farmers for organic farming?",
+    "type": "scheme",
+    "lang": "en",
+    "top_score": 0.7149021625518799,
+    "retrieved": [
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        29
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        35
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        129
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        94
+      ],
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        27
+      ]
+    ],
+    "hit": false,
+    "recall": 0.0,
+    "rr": 0.0,
+    "expected": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        70
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        85
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        93
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        60
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        67
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        78
+      ]
+    ]
+  },
+  {
+    "id": "q038",
+    "question": "Who should farmers contact to avail the micro irrigation subsidy?",
+    "type": "scheme",
+    "lang": "en",
+    "top_score": 0.7433199882507324,
+    "retrieved": [
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        123
+      ],
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        40
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        87
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        153
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        122
+      ]
+    ],
+    "hit": true,
+    "recall": 0.5,
+    "rr": 0.3333333333333333,
+    "expected": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        91
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        87
+      ]
+    ]
+  },
+  {
+    "id": "q039",
+    "question": "Drip irrigation ku chinna vivasayigalukku evvalavu subsidy kidaikkum?",
+    "type": "scheme",
+    "lang": "tanglish",
+    "top_score": 0.6853936910629272,
+    "retrieved": [
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        91
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        87
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        410
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        123
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        416
+      ]
+    ],
+    "hit": true,
+    "recall": 0.5,
+    "rr": 0.5,
+    "expected": [
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        87
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        90
+      ]
+    ]
+  },
+  {
+    "id": "q040",
+    "question": "Payir kaappeedu ku yaar vinnappikkalam?",
+    "type": "scheme",
+    "lang": "tanglish",
+    "top_score": 0.6117312908172607,
+    "retrieved": [
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        77
+      ],
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        76
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        141
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        271
+      ],
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        3
+      ]
+    ],
+    "hit": false,
+    "recall": 0.0,
+    "rr": 0.0,
+    "expected": [
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        41
+      ]
+    ]
+  },
+  {
+    "id": "q041",
+    "question": "What documents are needed to enrol in crop insurance?",
+    "type": "unanswerable",
+    "lang": "en",
+    "top_score": 0.6864858865737915,
+    "retrieved": [
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        78
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        52
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        41
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        45
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        57
+      ]
+    ]
+  },
+  {
+    "id": "q042",
+    "question": "What is the subsidy for tractor-drawn farm implements for small farmers?",
+    "type": "scheme",
+    "lang": "en",
+    "top_score": 0.7631429433822632,
+    "retrieved": [
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        104
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        93
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        154
+      ],
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        54
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        151
+      ]
+    ],
+    "hit": true,
+    "recall": 0.5,
+    "rr": 0.5,
+    "expected": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        122
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        93
+      ]
+    ]
+  },
+  {
+    "id": "q043",
+    "question": "How did the number of farmers enrolled under PMFBY change between the 2022-23 and 2024-25 policy notes?",
+    "type": "unanswerable",
+    "lang": "en",
+    "top_score": 0.7237952947616577,
+    "retrieved": [
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        80
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        52
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        45
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        41
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        68
+      ]
+    ]
+  },
+  {
+    "id": "q044",
+    "question": "How did the sale of sugar and by-products change between 2022-23 and 2023-24?",
+    "type": "cross_year",
+    "lang": "en",
+    "top_score": 0.7312508225440979,
+    "retrieved": [
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        91
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        105
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        158
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        97
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        86
+      ]
+    ],
+    "hit": true,
+    "recall": 1.0,
+    "rr": 1.0,
+    "expected": [
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        91
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        105
+      ]
+    ]
+  },
+  {
+    "id": "q045",
+    "question": "How did the micro irrigation target or allocation change between the 2022-23 and 2024-25 policy notes?",
+    "type": "cross_year",
+    "lang": "en",
+    "top_score": 0.739154577255249,
+    "retrieved": [
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        40
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        123
+      ],
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        68
+      ],
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        52
+      ],
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        109
+      ]
+    ],
+    "hit": true,
+    "recall": 0.5,
+    "rr": 0.5,
+    "expected": [
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        73
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        123
+      ]
+    ]
+  },
+  {
+    "id": "q046",
+    "question": "How did the foodgrain production figures differ between the 2022-23 and 2024-25 policy notes?",
+    "type": "cross_year",
+    "lang": "en",
+    "top_score": 0.6693659424781799,
+    "retrieved": [
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        33
+      ],
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        43
+      ],
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        2
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        52
+      ],
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        243
+      ]
+    ],
+    "hit": false,
+    "recall": 0.0,
+    "rr": 0.0,
+    "expected": [
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        7
+      ],
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        21
+      ]
+    ]
+  },
+  {
+    "id": "q047",
+    "question": "What is the paddy procurement price in Kerala?",
+    "type": "unanswerable",
+    "lang": "en",
+    "top_score": 0.7659865021705627,
+    "retrieved": [
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        70
+      ],
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        54
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        204
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        7
+      ],
+      [
+        "tn_agri_budget_speech_2024_25.pdf",
+        7
+      ]
+    ]
+  },
+  {
+    "id": "q048",
+    "question": "How much is the Rythu Bandhu assistance in Telangana?",
+    "type": "unanswerable",
+    "lang": "en",
+    "top_score": 0.6050584316253662,
+    "retrieved": [
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        95
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        85
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        16
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        20
+      ],
+      [
+        "tn_agri_citizen_charter_2022_23.pdf",
+        84
+      ]
+    ]
+  },
+  {
+    "id": "q049",
+    "question": "What medicine should I take for a fever?",
+    "type": "unanswerable",
+    "lang": "en",
+    "top_score": 0.5166424512863159,
+    "retrieved": [
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        313
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        140
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        73
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        107
+      ],
+      [
+        "tnau_cpg_agriculture_2020.pdf",
+        246
+      ]
+    ]
+  },
+  {
+    "id": "q050",
+    "question": "Who won the last cricket world cup?",
+    "type": "unanswerable",
+    "lang": "en",
+    "top_score": 0.5376185178756714,
+    "retrieved": [
+      [
+        "tn_agri_policy_note_2024_25.pdf",
+        235
+      ],
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        21
+      ],
+      [
+        "tn_agri_policy_note_2022_23.pdf",
+        142
+      ],
+      [
+        "tn_agri_citizen_charter_2021_22.pdf",
+        109
+      ],
+      [
+        "tn_agri_policy_note_2023_24.pdf",
+        197
+      ]
+    ]
   }
 ]

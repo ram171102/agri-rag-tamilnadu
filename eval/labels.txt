@@ -1,0 +1,45 @@
+# Verified against the source PDFs (page numbers = PDF viewer pages, 1-based).
+# Rule: a page is relevant only if it directly answers the question as asked.
+# Short names: cpg, pn22, pn23, pn24, bs24, cc21, cc22
+
+# ---- TNAU Crop Production Guide (cpg) ----
+q016: 153
+q017: 119 124
+q018: 312 318
+q019: 310 315
+q020: 31
+q021: 125
+q022: 77
+q026: 242 243 257
+q027: 106
+
+# Not in this guide (horticulture crops are in a separate TNAU guide)
+q023: none
+q024: none
+q025: none
+
+# Tanglish copies
+q028: same=q021
+q029: same=q018
+q030: none
+
+# ---- Schemes: citizen charters, policy notes, budget speech ----
+q031: cc22=81 cc21=87 cc21=88 bs24=52 pn22=104
+q032: cc22=98 pn22=112
+q033: cc22=78 cc21=86 cc21=65 bs24=15 pn24=26
+q034: cc22=20 cc22=38 cc21=11
+q035: cc22=105 cc22=100 cc21=110 pn22=114 pn23=145
+q036: cc22=69 cc22=89 cc21=76 cc21=98
+q037: cc22=60 cc22=67 cc22=78 cc21=70 cc21=85 cc21=93 pn22=29 pn24=129
+q038: cc22=87 cc21=91
+q040: cc22=41 cc21=45
+
+# PMFBY pages have no document list (only the KCC section does), so unanswerable
+q041: none
+q042: cc22=93 cc21=122 pn22=104
+
+# ---- Cross-year (policy notes) ----
+# 2024-25 note gives no enrolment figure to compare with 2022-23, so unanswerable
+q043: none
+q045: pn22=73 pn24=123
+q046: pn22=7 pn24=21

@@ -226,3 +226,5 @@ data/raw/*.pdf
 data/processed/*.jsonl
 
 data/processed/*.npy
+
+eval/worksheet.txt
